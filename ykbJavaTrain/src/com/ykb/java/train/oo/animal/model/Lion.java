@@ -1,4 +1,4 @@
-package com.ykb.java.train.oo.animal;
+package com.ykb.java.train.oo.animal.model;
 
 public class Lion extends Cat {
 	@Override
