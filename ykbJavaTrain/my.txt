@@ -1,0 +1,2 @@
+osman,1234,osman,yay,TL#1000;DOLAR#500,GOLD
+osman1,1235,osman1,yay1,TL#1000;DOLAR#500;EURO#800,GOLD
