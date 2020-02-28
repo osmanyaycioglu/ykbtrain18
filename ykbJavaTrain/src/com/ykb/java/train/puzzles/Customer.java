@@ -10,24 +10,38 @@ public class Customer {
         return this.isim;
     }
 
-    public void setIsim(final String isim) {
+    public Customer setIsim(final String isim) {
         this.isim = isim;
+        return this;
     }
 
     public String getSoyisim() {
         return this.soyisim;
     }
 
-    public void setSoyisim(final String soyisim) {
+    public Customer setSoyisim(final String soyisim) {
         this.soyisim = soyisim;
+        return this;
     }
 
     public int getYas() {
         return this.yas;
     }
 
-    public void setYas(final int yas) {
+    public Customer setYas(final int yas) {
         this.yas = yas;
+        return this;
+    }
+
+    @Override
+    public String toString() {
+        return "Customer [isim="
+               + this.isim
+               + ", soyisim="
+               + this.soyisim
+               + ", yas="
+               + this.yas
+               + "]";
     }
 
 }

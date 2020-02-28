@@ -1,0 +1,8 @@
+osman,yay,50
+osman,yay1,50
+mehmet,me,30
+mehmet,me2,30
+mehmet,me3,30
+ali,veli,40
+ayse,ay,23
+nur,ay,45
